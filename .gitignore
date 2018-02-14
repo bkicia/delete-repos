@@ -1,0 +1,4 @@
+config/git-config.json
+node_modules/
+repo.list
+.DS_Store

@@ -1,0 +1,11 @@
+{
+  "name": "delete-repos",
+  "version": "0.0.1",
+  "author": "Brianna Wegryn",
+  "dependencies": {
+    "async": "^2.6.0",
+    "fs": "0.0.1-security",
+    "request": "^2.83.0",
+    "underscore": "^1.8.3"
+  }
+}
